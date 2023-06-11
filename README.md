@@ -1,2 +1,2 @@
-# project
+#  hotel
 peoject1 JavaScript
